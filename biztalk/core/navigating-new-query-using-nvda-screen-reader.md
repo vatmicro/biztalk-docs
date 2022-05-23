@@ -23,7 +23,7 @@ This article provides information on using NVDA screen reader to navigate the **
 
 ## New Query tab
 
-Use the **New query** tab for the following:
+You can use the **New query** tab to perform the following:
 
 - To create queries to view more information on BizTalk artifacts, such as messaging and orchestration instances.
 
@@ -41,13 +41,13 @@ Use the **New query** tab for the following:
 
 ## Columns in the Query table
 
-There are three columns in the Query table:
+The Query table contains three columns:
 
 - Field name
 - Operator
 - Value
 
-## Rows in Query Table
+## Rows in Query table
 
 You can add filters to your queries by adding new rows. As you add filters, you expand your data options:
 
