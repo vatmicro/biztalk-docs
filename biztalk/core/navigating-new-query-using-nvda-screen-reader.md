@@ -46,7 +46,7 @@ The query table contains three columns:
 
 ## Rows in the query table
 
-As you add filters to your queries, new rows are added to your query tables. Filters can expand your data options:
+As you add filters to your queries, new rows are added to your query tables. Filters help expand your data options:
 
 - First Row: In the **Field name** column, select **Search for**, and then select **Equals** in the **Operator** column. In the third column, select what you want to see:
   - All in-progress service instances
